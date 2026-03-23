@@ -1,0 +1,13 @@
+{
+  "repository": "i-hatr-tcf-tfb-integration",
+  "version": "1.0.1",
+  "related_framework": "Anonymo AI Framework 24×24 v2.0",
+  "author": "Chris Montgomery",
+  "orcid": "0009-0009-5364-249X",
+  "contents": [
+    "README.md",
+    "CHANGELOG.md",
+    "packages/I-HATR_TCF_TFB_Module_v1.0.1.zip",
+    "docs/I-HATR_TCF_TFB_Technical_Annex_v1.0.pdf"
+  ]
+}
