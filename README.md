@@ -27,6 +27,12 @@ It contributes to:
 - Structured ZIP module
 - Changelog of the technical note
 
+## Zenodo Record
+
+This repository is archived on Zenodo. The canonical DOI for this work is:
+
+> **DOI:** [https://doi.org/10.5281/zenodo.19193152](https://doi.org/10.5281/zenodo.19193152)
+
 ## Author
 
 Chris Montgomery  
