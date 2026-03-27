@@ -1,3 +1,8 @@
+Part of the **TCF / TFB + Anonymo Ecosystem**  
+System hub: https://github.com/christianmontgomery220-svg/tcf-anonymo-ecosystem
+
+---
+
 # I-HATR Integration — TCF/TFB + Anonymo Framework
 
 This repository contains a technical note and supplementary materials related to the integration of a Human–AI trust calibration perspective (I-HATR) into the Anonymo AI Framework (24×24), based on the TCF/TFB conceptual foundation.
